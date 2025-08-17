@@ -71,12 +71,11 @@ The system is designed for quick understanding of meeting outcomes without readi
 ## Architecture
 
 Frontend (HTML + Tailwind CSS + JS)
-|
-|--- Fetch API calls
-|
-Backend (FastAPI)
-|--- /generate endpoint (calls Gemini API)
-|--- /send-email endpoint (SMTP integration)
+|Fetch API calls
+
+|Backend (FastAPI)
+|/generate endpoint (calls Gemini API)
+|/send-email endpoint (SMTP integration)
 
 - **Frontend**: Handles user input, displays summaries, shows loaders and animations.
 - **Backend**: Receives transcript and prompt, calls Gemini AI, returns structured summary.
