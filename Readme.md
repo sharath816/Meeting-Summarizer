@@ -78,9 +78,9 @@ Backend (FastAPI)
  - /send-email endpoint (SMTP integration)
 
 ---
-- **Frontend**: Handles user input, displays summaries, shows loaders and animations.
-- **Backend**: Receives transcript and prompt, calls Gemini AI, returns structured summary.
-- **Email Service**: Sends the summary to specified recipients via SMTP.
+ **Frontend**: Handles user input, displays summaries, shows loaders and animations.
+ **Backend**: Receives transcript and prompt, calls Gemini AI, returns structured summary.
+ **Email Service**: Sends the summary to specified recipients via SMTP.
 
 ---
 
