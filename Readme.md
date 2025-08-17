@@ -155,8 +155,7 @@ This project is licensed under the **MIT License**. See `LICENSE` file for detai
 
 ## Contact
 
-- **Author:** Sharath M T  
-- **Email:** sharath@example.com  
+- **Author:** Sharath M Talawar
 - **GitHub:** [https://github.com/sharath816/Meeting-Summarizer](https://github.com/sharath816/Meeting-Summarizer)
 
 ---
