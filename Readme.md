@@ -123,17 +123,22 @@ Backend (FastAPI)
 
 ## Screenshots
 
-1. **Transcript Input & Prompt**
-![Transcript Input](screenshots/transcript_input.png)
+1. **Transcript Input**
+![Transcript Input](screenshots/1.png)
 
-2. **Generated Summary**
-![Generated Summary](screenshots/generated_summary.png)
+2. **Transcript Input & Prompt**
+![Transcript Input](screenshots/2.png)
 
-3. **Email Share**
-![Email Share](screenshots/email_share.png)
+3. **Generated Summary**
+![Generated Summary](screenshots/3.png)
 
-4. **Animations**
-![Loading & Success Animations](screenshots/animations.png)
+4. **Email Share**
+![Email Share](screenshots/4.png)
+
+![Loading & Success Animations](screenshots/5.png)
+
+5. **Adding Email Credentials**
+![Email Share](screenshots/6.png)
 
 ---
 
